@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="458" started-at="2022-02-23T00:27:13Z" finished-at="2022-02-23T00:27:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="458" started-at="2022-02-23T00:27:13Z" finished-at="2022-02-23T00:27:13Z">
+      <class name="com.w2a.TestDataProjectUtilities.TestParameterization">
+        <test-method status="PASS" signature="testData(java.util.Hashtable)[pri:0, instance:com.w2a.TestDataProjectUtilities.TestParameterization@4df50bcc]" name="testData" duration-ms="14" started-at="2022-02-23T00:27:13Z" data-provider="getData" finished-at="2022-02-23T00:27:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{RunMode=Y, email=SRaju@gmail.com, name=Sathish, description=Project Manager, balance=50000.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testData(java.util.Hashtable)[pri:0, instance:com.w2a.TestDataProjectUtilities.TestParameterization@4df50bcc]" name="testData" duration-ms="1" started-at="2022-02-23T00:27:13Z" data-provider="getData" finished-at="2022-02-23T00:27:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{RunMode=Y, email=venkatK@hotmail.com, name=Krishna, description=Manager MNC, balance=15000.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testData(java.util.Hashtable)[pri:0, instance:com.w2a.TestDataProjectUtilities.TestParameterization@4df50bcc]" name="testData" duration-ms="1" started-at="2022-02-23T00:27:13Z" data-provider="getData" finished-at="2022-02-23T00:27:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{RunMode=Y, email=PNekkalapudi@rediffmail.com, name=Prashanth, description=Senior Manager MNC, balance=35000.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testData(java.util.Hashtable)[pri:0, instance:com.w2a.TestDataProjectUtilities.TestParameterization@4df50bcc]" name="testData" duration-ms="1" started-at="2022-02-23T00:27:13Z" data-provider="getData" finished-at="2022-02-23T00:27:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{RunMode=N, email=KKalsevaran@gmail.com, name=Kalpana, description=Dental Surgeon, balance=10000.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testData(java.util.Hashtable)[pri:0, instance:com.w2a.TestDataProjectUtilities.TestParameterization@4df50bcc]" name="testData" duration-ms="1" started-at="2022-02-23T00:27:13Z" data-provider="getData" finished-at="2022-02-23T00:27:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{RunMode=N, email=JPatel@yahoo.co.in, name=Jayshree, description=Senior Manager MNC, balance=20000.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+      </class> <!-- com.w2a.TestDataProjectUtilities.TestParameterization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
